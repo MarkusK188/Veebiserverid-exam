@@ -3,4 +3,4 @@ Config tekst jne
 main branch muudatus
 
 konfigureerida seda
-konfigureerida seda jne
+konfigureerida seda jne jne Hello
